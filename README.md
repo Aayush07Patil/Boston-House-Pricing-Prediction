@@ -2,8 +2,8 @@
 ## Using the Boston Housing Dataset we predict the prices of boston houses depending on most effective factors
 
 🛠️ Project Workflow:
-1️⃣ Data Cleaning:
-Handled missing values and prepared the dataset for analysis.
+1️⃣ Data Cleaning: <br>
+Handled missing values and prepared the dataset for analysis. 
 2️⃣ Feature Selection:
 Analyzed feature correlations with the target variable (MEDV: Median value of owner-occupied homes in $1000s) to identify impactful predictors.
 Excluded less relevant features like CHAS.
